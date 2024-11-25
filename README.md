@@ -16,5 +16,5 @@ Como utilizei a versão gratuita, pedi para que o ChatGPT resumisse em uma frase
 ## 🚀 Resultados
 Vídeo simples e direto criado na versão gratuita das ferramentas.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Ótimo exemplo prático de como integrar IAs, espero ser o início de uma jornada no mundo da tecnologia.
